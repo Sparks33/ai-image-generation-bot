@@ -1,6 +1,6 @@
 # Image Generator Discord Bot
 
-## [VIDEO GUIDE]()
+## [VIDEO GUIDE](https://youtu.be/8ESyiQHareo)
 
 ## Technologies used:
 
